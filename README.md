@@ -1,0 +1,2 @@
+# themithya-bot
+for auto
